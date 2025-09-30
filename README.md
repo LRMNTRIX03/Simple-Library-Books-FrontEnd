@@ -4,15 +4,19 @@ Website untuk mengimplementasikan proses CRUD dari API Simple Library Books
 
 # Cara menggunakan
 1. **Clone Project**
-   ``bash
+   ```bash
    git clone https://github.com/LRMNTRIX03/Simple-Library-Books-FrontEnd.git
-   ``
+   ```
 2. **Jalankan Server Library Books**
    Masuk ke Project Api Library dan jalankan server
-   ``bash
+   ```bash
    php artisan serve
-   ``
-3. **Jalankan Front End**
-   ``bash
+   ```
+4. **Masuk ke Folder Front End**
+   ```bash
+   cd Simple-Library-Books-Laravel
+   ```
+5. **Jalankan server Front End**
+   ```bash
    npm run dev
-   ``
+   ```
