@@ -14,7 +14,7 @@ Website untuk mengimplementasikan proses CRUD dari API Simple Library Books
    ```
 4. **Masuk ke Folder Front End**
    ```bash
-   cd Simple-Library-Books-Laravel
+   cd Simple-Library-Books-FrontEnd
    ```
 5. **Jalankan server Front End**
    ```bash
