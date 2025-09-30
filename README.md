@@ -16,7 +16,11 @@ Website untuk mengimplementasikan proses CRUD dari API Simple Library Books
    ```bash
    cd Simple-Library-Books-FrontEnd
    ```
-5. **Jalankan server Front End**
+5. **Instal environment node**
+   ```bash
+   npm install
+   ```
+6. **Jalankan Server FrontEnd**
    ```bash
    npm run dev
    ```
